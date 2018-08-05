@@ -1,0 +1,12 @@
+{
+    "name": "UGF.ScriptableObjectCollection.Editor",
+    "references": [
+        "UGF.ScriptableObjectCollection.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
