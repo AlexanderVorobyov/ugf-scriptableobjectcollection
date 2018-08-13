@@ -4,7 +4,7 @@ Provides tools for creating games powered by Unity Game Engine.
 
 ## UGF.ScriptableObjectCollection
 
-- **Version**: 1.0.11
+- **Version**: 1.11.0
 - **Unity Version**: 2018.2.0
 - **Scripting Runtime Version**: .Net 4.x Equivalent
 - **Api Compatibility Level**: .Net 4.x
